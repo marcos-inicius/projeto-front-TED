@@ -1,0 +1,8 @@
+{
+    "user":[
+        {"nome":"system",
+        "tipo":1,
+        "email":"system@if.com",
+        "senha":"123"}
+    ]
+}
